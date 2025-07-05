@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="@string/size"
+        app:showAsAction="always"
+        android:icon="@drawable/resize">
+        <menu>
+            <item
+                android:title="@string/_3x3"
+                android:id="@+id/_3x3"/>
+            <item
+                android:title="@string/_4x4"
+                android:id="@+id/_4x4"/>
+            <item
+                android:title="@string/_5x5"
+                android:id="@+id/_5x5"/>
+            <item
+                android:title="@string/_6x6"
+                android:id="@+id/_6x6"/>
+            <item
+                android:title="@string/_7x7"
+                android:id="@+id/_7x7"/>
+            <item
+                android:title="@string/_8x8"
+                android:id="@+id/_8x8"/>
+            <item
+                android:title="@string/_9x9"
+                android:id="@+id/_9x9"/>
+            <item
+                android:title="@string/_10x10"
+                android:id="@+id/_10x10"/>
+        </menu>
+    </item>
+
+</menu>

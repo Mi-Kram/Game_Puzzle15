@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Puzzle15</string>
+    <string name="new_game">New Game</string>
+    <string name="solve">Solve</string>
+    <string name="reset">Reset</string>
+
+    <string name="_3x3">3x3</string>
+    <string name="_4x4">4x4</string>
+    <string name="_5x5">5x5</string>
+    <string name="_6x6">6x6</string>
+    <string name="_7x7">7x7</string>
+    <string name="_8x8">8x8</string>
+    <string name="_9x9">9x9</string>
+    <string name="_10x10">10x10</string>
+    <string name="size">Size</string>
+    <string name="solving_speed">Solving speed</string>
+    <string name="_00_00">00:00</string>
+</resources>
